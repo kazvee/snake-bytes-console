@@ -6,6 +6,10 @@ Users are prompted to enter dinner meal ideas one at a time, with input validati
 
 Once submitted, the app shuffles the ideas and generates a 7-day meal plan, including a special "Treat Night" for a break from home cooking!
 
+## Demo Video
+
+https://github.com/user-attachments/assets/653ff4d4-6e3f-4624-86b4-2a0e19b7622d
+
 ## Screenshot
 
 ![](images/Snake_Bytes_Console_Screenshot.png)
